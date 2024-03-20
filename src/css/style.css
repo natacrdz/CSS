@@ -1,5 +1,26 @@
+body{
+    background-color: gray;
+}
+
 h1{
     text-align: center;
     color: blue;
     text-transform: capitalize;
+}
+
+#parrafo1{
+    color: yellow;
+    text-transform:uppercase;
+}
+
+
+#parrafo2{
+    color:blue
+}
+
+#parrafo3{
+    color:red
+}
+.transformarTextoEnMayuscula{
+    text-transform: uppercase;
 }
